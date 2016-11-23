@@ -1,0 +1,79 @@
+{
+    "TopBar": {
+        "Home": "Home",
+        "Feature": "Features",
+        "Video": "Video",
+        "ReleaseNotes": "Changelog",
+        "Downloads": "Download",
+        "Buy": "Buy",
+        "Documents": "Documentation",
+        "ReportIssue": "Issues",
+        "Languages": "Languages"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Conversion For Number Tool",
+        "BtnDownload": "Download",
+        "BtnDownloadDescription": "Free | Official trial version.",
+        "BtnBuy": "Buy",
+        "BtnBuyDescription": "$4.99 | Official free upgrade.",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Main Features",
+            "list": [
+                "Support Binary Calc Conversion",
+                "Support one to many"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Wonderful things people are saying about NumSysConverter",
+            "list": [
+
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [
+
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Version",
+        "list": [
+            {
+                "version": "{{1.0}}",
+                "updateDate": "{{2016.11.22}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{NumSysConverter-v1.0-darwin-x64.zip}}",
+                        "size": "{{2.1MB}}",
+                        "downURL": [
+                          "{{http://www.filefactory.com/file/ye03u0ghh87/NumSysConverter-v1.0-darwin-x64.zip}}"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Buy",
+        "list": [
+            {
+                "name": "{{NumSysConverter for Mac}}",
+                "logo": "{{images/buy/buy.png}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/add/55399-50}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Available language(MT)",
+        "ChangeAlert": "Switching language to complete"
+    }
+}
